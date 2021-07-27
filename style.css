@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+  min-width: 400px;
+}
+
+input {
+  border: 1px solid #5f9341;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.7em;
+  margin-bottom: 1em;
+}
+
+button {
+  color: #fff;
+  background-color: #198964;
+  border: 1px solid #198964;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#delete-btn {
+  background-color:#fff;
+  color:#198964;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+li {
+  margin-top: 5px;
+}
+
+a {
+  color:#197689;
+}
